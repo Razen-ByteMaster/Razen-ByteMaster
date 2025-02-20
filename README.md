@@ -17,10 +17,6 @@ I'm a Machine Learning and AI enthusiast who loves pushing the limits of creativ
   <img src="https://github-readme-stats.vercel.app/api?username=Razen-ByteMaster&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-### Activity in Motion
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Razen-ByteMaster&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
@@ -50,7 +46,6 @@ Click the button below to discover a secret surprise!
 - **Email:** [razen.ml@email.com](mailto:razen.ml@email.com)
 
 
-```
+
 *Crafted uniquely by Razen-ByteMaster. No recycled templates—just original passion and creativity!*
 
-```
