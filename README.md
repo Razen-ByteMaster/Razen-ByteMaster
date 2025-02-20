@@ -6,6 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=Razen-ByteMaster&label=Profile%20Views&color=blue&style=flat" alt="Razen-ByteMaster" />
 </p>
 
+<!-- Animated GIF in place of the game -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QBjok2NBIzSR7IaDQK/giphy.gif?cid=790b7611a2j8nfcso5ngfnn240lrnbduo3dwmjflk6ihsmxx&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animation" />
+</p>
+
 <!-- GitHub Stats and Trophies -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Razen-ByteMaster&show_icons=true&theme=dark&hide_border=true" alt="Razen-ByteMaster's GitHub Stats" />
