@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razen-ByteMaster</h1>
-<h3 align="center">A passionate Machine Learning and AI enthusiast from India</h3>
+<h3 align="center">A passionate Machine Learning and AI enthusiast from Egypt</h3>
 
 <!-- Visitor Count Badge -->
 <p align="center">
@@ -9,7 +9,6 @@
 <!-- GitHub Stats and Trophies -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Razen-ByteMaster&show_icons=true&theme=dark&hide_border=true" alt="Razen-ByteMaster's GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Razen-ByteMaster&theme=onedark&no-frame=true&row=1&column=7" alt="Razen-ByteMaster's GitHub Trophies" />
 </p>
 
 <!-- Top Skills -->
