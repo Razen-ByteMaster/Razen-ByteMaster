@@ -15,6 +15,7 @@ I'm a Machine Learning and AI enthusiast who loves pushing the limits of creativ
 ### My GitHub Snapshot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Razen-ByteMaster&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razen-ByteMaster&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
